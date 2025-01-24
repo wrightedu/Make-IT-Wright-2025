@@ -1,0 +1,28 @@
+{
+  "name": "docker-demo",
+  "version": "1.0.0",
+  "description": "A basic docker demo of creating a express app that runs in docker.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docker:build": "docker build -t my-node-app .",
+    "docker:run": "docker run -p 3000:3000 my-node-app",
+    "docker:tar": "docker save -o my-node-app.tar my-node-app",
+    "docker:load-image": "docker load -i my-node-app.tar"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajax255/docker-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajax255/docker-demo/issues"
+  },
+  "homepage": "https://github.com/Ajax255/docker-demo#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
