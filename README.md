@@ -6,6 +6,30 @@ This year's hackathon came together because of our awesome new CS/CEG Alumni Ass
 
 Thanks all!
 
+## The Teams
+
+* [UDF Milkshakes](https://github.com/GrantBenR/2025Hackathon)
+* [Kalanchoe](https://github.com/ReeseHatfield/Make-IT-Wright-2025)
+* [Awful Commit Messages (ACM)](https://github.com/Awful-Commit-Messages/MakeItWright2025)
+* [The Holy Schnikes](https://github.com/JakeHamblin/hackathon-2025)
+* [YeetCode](https://github.com/Wamski/MakeITWright_SP25)
+* [Team Everest](https://github.com/sarojbhattaraiii/Team-Everest/tree/master)
+* [Null Pointers](https://github.com/CollegeMarket-MakeITWright2025/CollegeMarket)
+* [Jungle Gap](https://github.com/Kokuko3/P.A.W.S./tree/main)
+* [Byte Force](https://github.com/AzizbekHusainov/WSU-Spring2025-Hackathon)
+* [cybrpnk](https://github.com/cybrpnk/Make-IT-Wright-2025)
+* [Cymur Industries](https://github.com/JonIsPatented/InventoryTracker.git)
+
+#### AFK as of last checkin
+
+* [Team Rocket](https://github.com/chinnuu05/2025-hackathon)
+* [Hantey](https://github.com/Saugat-Shah/Hantey)
+* [Wamsky](https://github.com/Wamski/MakeITWright_SP25)
+* [Lucrative Ninjas](https://github.com/AMcGohan/WSU_Hackathon2025)
+* [5D](https://github.com/WSUHackathon-Team5D/hackathon2025)
+* [Twizzy Tech](https://github.com/kaelabook/Twizzy-Tech)
+
+
 ## Where we are
 
 We had a great training and tools session last Thursday (Jan 23) and covered Git and Docker.  The details of this training can be found in this repo's `Git_and_Docker_basics` folder.
