@@ -51,4 +51,25 @@ information and struggles so that (hopefully) we ALL learn something this weeken
 Tonight @ 6:30pm in 152c Russ will be the final mingle night, where we will be presenting the Alumni Association's project ideas and talking over various student ideas.
 
 Kickoff is tomorrow, Friday Jan. 31 @ 5pm.  Between now and then make sure you have a team, a repository, a plan, and some caffeine!  More details will follow...
+
+---
+
+# Thank you to our Alumni Mentors
+
+<img src="https://raw.githubusercontent.com/wrightedu/Make-IT-Wright-2025/refs/heads/main/img/astero.png" width="100"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/wrightedu/Make-IT-Wright-2025/refs/heads/main/img/bae_systems_logo.jpeg" width="100"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/wrightedu/Make-IT-Wright-2025/refs/heads/main/img/mile_two_llc_logo.jpeg" width="100"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/wrightedu/Make-IT-Wright-2025/refs/heads/main/img/northrop_grumman_corporation_logo.jpeg" width="100"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/wrightedu/Make-IT-Wright-2025/refs/heads/main/img/quantum_autonomy_llc_logo.jpeg" width="100"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/wrightedu/Make-IT-Wright-2025/refs/heads/main/img/scitecinc_logo.jpeg" width="100"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/wrightedu/Make-IT-Wright-2025/refs/heads/main/img/spglobal_logo.jpeg" width="100"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/wrightedu/Make-IT-Wright-2025/refs/heads/main/img/riverside-logo.png" width="200"/>
+&nbsp;
  
