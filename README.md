@@ -20,7 +20,7 @@ Thanks all!
 * [cybrpnk](https://github.com/cybrpnk/Make-IT-Wright-2025)
 * [Cymur Industries](https://github.com/JonIsPatented/InventoryTracker.git)
 * [Twizzy Tech](https://github.com/kaelabook/Twizzy-Tech)
-
+* [5D](https://github.com/WSUHackathon-Team5D/hackathon2025)
 
 #### AFK as of last checkin
 
@@ -28,7 +28,6 @@ Thanks all!
 * [Hantey](https://github.com/Saugat-Shah/Hantey)
 * [Wamsky](https://github.com/Wamski/MakeITWright_SP25)
 * [Lucrative Ninjas](https://github.com/AMcGohan/WSU_Hackathon2025)
-* [5D](https://github.com/WSUHackathon-Team5D/hackathon2025)
 
 
 ## Where we are
@@ -56,20 +55,7 @@ Kickoff is tomorrow, Friday Jan. 31 @ 5pm.  Between now and then make sure you h
 
 # Thank you to our Alumni Mentors
 
-<img src="https://raw.githubusercontent.com/wrightedu/Make-IT-Wright-2025/refs/heads/main/img/astero.png" width="100"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/wrightedu/Make-IT-Wright-2025/refs/heads/main/img/bae_systems_logo.jpeg" width="100"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/wrightedu/Make-IT-Wright-2025/refs/heads/main/img/mile_two_llc_logo.jpeg" width="100"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/wrightedu/Make-IT-Wright-2025/refs/heads/main/img/northrop_grumman_corporation_logo.jpeg" width="100"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/wrightedu/Make-IT-Wright-2025/refs/heads/main/img/quantum_autonomy_llc_logo.jpeg" width="100"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/wrightedu/Make-IT-Wright-2025/refs/heads/main/img/scitecinc_logo.jpeg" width="100"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/wrightedu/Make-IT-Wright-2025/refs/heads/main/img/spglobal_logo.jpeg" width="100"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/wrightedu/Make-IT-Wright-2025/refs/heads/main/img/riverside-logo.png" width="200"/>
-&nbsp;
- 
+| <img src="https://raw.githubusercontent.com/wrightedu/Make-IT-Wright-2025/refs/heads/main/img/astero.png" width="100"/> | <img src="https://raw.githubusercontent.com/wrightedu/Make-IT-Wright-2025/refs/heads/main/img/bae_systems_logo.jpeg" width="100"/> | <img src="https://raw.githubusercontent.com/wrightedu/Make-IT-Wright-2025/refs/heads/main/img/mile_two_llc_logo.jpeg" width="100"/> |
+| <img src="https://raw.githubusercontent.com/wrightedu/Make-IT-Wright-2025/refs/heads/main/img/northrop_grumman_corporation_logo.jpeg" width="100"/> | <img src="https://raw.githubusercontent.com/wrightedu/Make-IT-Wright-2025/refs/heads/main/img/quantum_autonomy_llc_logo.jpeg" width="100"/> | <img src="https://raw.githubusercontent.com/wrightedu/Make-IT-Wright-2025/refs/heads/main/img/scitecinc_logo.jpeg" width="100"/> |
+| <img src="https://raw.githubusercontent.com/wrightedu/Make-IT-Wright-2025/refs/heads/main/img/spglobal_logo.jpeg" width="100"/> | <img src="https://raw.githubusercontent.com/wrightedu/Make-IT-Wright-2025/refs/heads/main/img/riverside-logo.png" width="200"/> | |
+
