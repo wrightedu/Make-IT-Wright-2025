@@ -19,6 +19,8 @@ Thanks all!
 * [Byte Force](https://github.com/AzizbekHusainov/WSU-Spring2025-Hackathon)
 * [cybrpnk](https://github.com/cybrpnk/Make-IT-Wright-2025)
 * [Cymur Industries](https://github.com/JonIsPatented/InventoryTracker.git)
+* [Twizzy Tech](https://github.com/kaelabook/Twizzy-Tech)
+
 
 #### AFK as of last checkin
 
@@ -27,7 +29,6 @@ Thanks all!
 * [Wamsky](https://github.com/Wamski/MakeITWright_SP25)
 * [Lucrative Ninjas](https://github.com/AMcGohan/WSU_Hackathon2025)
 * [5D](https://github.com/WSUHackathon-Team5D/hackathon2025)
-* [Twizzy Tech](https://github.com/kaelabook/Twizzy-Tech)
 
 
 ## Where we are
