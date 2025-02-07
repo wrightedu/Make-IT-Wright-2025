@@ -31,13 +31,13 @@ The Alumni association awarded several accolades to teams that excelled in many 
 * Technical Excellence - Awarded to teams for not just choosing the right tool for the job, but in showing some mastery of those tools!
   * [The Holy Schnikes](https://github.com/JakeHamblin/hackathon-2025)
   * [Jungle Gap](https://github.com/Kokuko3/P.A.W.S./tree/main)
-Best Collaboration - Awarded to teams for truly embracing collaboration and working together to make a product!
+* Best Collaboration - Awarded to teams for truly embracing collaboration and working together to make a product!
   * [Kalanchoe - PineMap](https://github.com/ReeseHatfield/Make-IT-Wright-2025)
   * [Team Everest](https://github.com/sarojbhattaraiii/Team-Everest/tree/master)
-Best Presentation - Awarded for having an exceptional presentation!
+* Best Presentation - Awarded for having an exceptional presentation!
   * [Null Pointers](https://github.com/CollegeMarket-MakeITWright2025/CollegeMarket)
   * [Cymur Industries](https://github.com/JonIsPatented/InventoryTracker.git)
-Cybersecurity Stalwart - Awarded to teams for having and outstanding security posture and for protecting their users!
+* Cybersecurity Stalwart - Awarded to teams for having and outstanding security posture and for protecting their users!
   * [Kalanchoe - PineMap](https://github.com/ReeseHatfield/Make-IT-Wright-2025)
   * [Legions - Smart Shield](https://github.com/chandunalli695/Legions)
 
